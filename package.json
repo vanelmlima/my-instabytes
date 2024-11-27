@@ -13,14 +13,14 @@
   "homepage": "",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/vanelmlima/my-instabytes"
   },
   "bugs": "",
   "keywords": [],
   "author": {
-    "name": "",
-    "email": "",
-    "url": ""
+    "name": "Vanessa L M Lima",
+    "email": "vlml2001lima@gmail.com",
+    "url": "https://github.com/vanelmlima"
   },
   "contributors": [],
   "scripts": {
